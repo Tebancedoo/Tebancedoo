@@ -26,23 +26,31 @@
    💻 I'm currently learning python
   <br>
   <br>
+  ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP and PYTHON.
+  <br>
+  <br>
   <br>
   <div align="left"
     <h3> 🔨 Languages & Tools</h3>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="html" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60"            height="60"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="60" height="60"/>&nbsp;
-  <div>
+  <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="html" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80"            height="80"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="80" height="80"/>&nbsp;
+  </div>
   </div>
   <br>
   <br>
-  <div>
   <h3> 🏦 My Stats: </h3>
-    
-  </div>
   
-  *https://www.youtube.com/watch?v=9YcJ5PDkHPE
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tebancedoo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+    
+  ![Tebancedoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tebancedoo&show_icons=true&theme=highcontrast)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tebancedoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+  
+  
  
