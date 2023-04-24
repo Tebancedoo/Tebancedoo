@@ -25,9 +25,6 @@
     👀 About Me:
   <br>
   <br>
-   📫 How to reach me: estsalcedo@misena.edu.co
-  <br>
-  <br>
    💻 I'm currently learning python
   <br>
   <br>
