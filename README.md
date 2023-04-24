@@ -1,4 +1,5 @@
 <div id="header" align="center"> 
+
   <img src="https://user-images.githubusercontent.com/115185706/200709967-084638c8-d7ed-451e-96af-493642995250.gif" width="200" />
   <h1>
     👋 Hi, I’m Esteban Salcedo
@@ -49,6 +50,9 @@
  
 <p>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 </p>
 
   <br>
@@ -61,6 +65,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tebancedoo&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
     
+<img src="https://profile-counter.glitch.me/Tebancedoo/count.svg" alt="Hello world" />
   
   
  
