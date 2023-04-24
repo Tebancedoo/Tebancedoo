@@ -1,5 +1,6 @@
-<div id="header" align="center"> 
+<img src="https://komarev.com/ghpvc/?username=Tebancedoo&color=blueviolet">
 
+<div id="header" align="center"> 	
   <img src="https://user-images.githubusercontent.com/115185706/200709967-084638c8-d7ed-451e-96af-493642995250.gif" width="200" />
   <h1>
     👋 Hi, I’m Esteban Salcedo
@@ -59,7 +60,5 @@
   ![Tebancedoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tebancedoo&show_icons=true&theme=highcontrast)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tebancedoo&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-    
-<img src="https://profile-counter.glitch.me/Tebancedoo/count.svg" alt="Hello world" />
-<img src="https://komarev.com/ghpvc/?username=Tebancedoo&color=blueviolet">
+
  
