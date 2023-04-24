@@ -61,6 +61,5 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tebancedoo&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
     
 <img src="https://profile-counter.glitch.me/Tebancedoo/count.svg" alt="Hello world" />
-  
-  
+<img src="https://komarev.com/ghpvc/?username=Tebancedoo&color=blueviolet">
  
