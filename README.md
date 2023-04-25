@@ -59,8 +59,8 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tebancedoo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
     
-  ![Tebancedoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tebancedoo&show_icons=true&theme=highcontrast)
+  ![Tebancedoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tebancedoo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tebancedoo&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tebancedoo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
  <!--https://github.com/Tebancedoo/Awesome-Profile-README-templates/blob/master/multimedia/sanchitvj.md-->
