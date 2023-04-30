@@ -37,6 +37,9 @@
   ⚙ I'm studying Software Analysis and Development
   <br>
   <br>
+  🔩 I aspire to be a Software Engineer
+  <br>
+  <br>
   <br>
   <div align="left"
        
