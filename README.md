@@ -36,6 +36,8 @@
   <br>
   ⚙ I'm studying Software Analysis and Development
   <br>
+  <br>
+  <br>
   <div align="left"
        
   #### :computer: Programming languages and tools: 
