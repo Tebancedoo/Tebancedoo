@@ -34,7 +34,7 @@
   ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, GIT AND PYTHON.
   <br>
   <br>
-	
+  ⚙ I'm studying Software Analysis and Development
   <br>
   <div align="left"
        
