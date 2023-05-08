@@ -74,6 +74,7 @@
  <!--https://github.com/Tebancedoo/Awesome-Profile-README-templates/blob/master/multimedia/sanchitvj.md-->
  
  ## My Certifications :arrow_down:
+ <a src="https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg">Certificado Tecnico Programación de Software</a>
  
 
  <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
