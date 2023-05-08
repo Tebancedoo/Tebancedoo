@@ -74,7 +74,7 @@
 
  <!--https://github.com/Tebancedoo/Awesome-Profile-README-templates/blob/master/multimedia/sanchitvj.md-->
  <!--## My Certifications :arrow_down:-->
-<!--Subir mis certificaso al repositorio de certificates-->
+
  <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
  
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
