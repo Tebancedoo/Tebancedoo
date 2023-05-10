@@ -75,6 +75,7 @@
  
  ## My Certifications :arrow_down:
  <a href="https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg">Certificado Tecnico Programación de Software</a>
+ <a href="https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20dot%20works.jpg">English Dot Works</a> 
  
 
  <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
