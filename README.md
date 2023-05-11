@@ -74,9 +74,10 @@
  <!--https://github.com/Tebancedoo/Awesome-Profile-README-templates/blob/master/multimedia/sanchitvj.md-->
  
  ## My Certifications :arrow_down:
- <a href="https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg">Tecnico Programación de Software</a>
+
+[Tecnico Programación de Software ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg "Certificado de ingles")
  
- [English dot Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20dot%20works.jpg "Certificado de ingles")
+[English dot Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20dot%20works.jpg "Certificado de ingles")
 
 [English does Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20does%20works.jpg "Certificado de ingles")
  
