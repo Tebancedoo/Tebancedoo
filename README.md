@@ -77,9 +77,7 @@
  <a href="https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg">Tecnico Programación de Software</a>
  <br>
  <a href="https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20dot%20works.jpg">English Dot Works</a> 
- <br>
- <a href="https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20does%20works.jpg">English Does Work<a/>
-	
+ <br>	
 [English does Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20does%20works.jpg "Certificado de ingles")
  
 
