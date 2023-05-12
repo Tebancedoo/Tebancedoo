@@ -80,6 +80,8 @@
 [English dot Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20dot%20works.jpg "Certificado de ingles")
 
 [English does Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20does%20works.jpg "Certificado de ingles")
+
+[Industria 4.0 ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20does%20works.jpg "Certificado de ingles")
  
 
  <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
