@@ -84,6 +84,6 @@
 
  <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
 <!--Buscar como hacer un cover para github y poner la imagen que tengo en certificados-->
-<!---https://github.com/PJijin/Cover-Image-Generator->
+<!--https://github.com/PJijin/Cover-Image-Generator--><!--LInk del generador el cover-->
  
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
