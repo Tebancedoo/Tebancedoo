@@ -81,7 +81,7 @@
 
 [English does Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20does%20works.jpg "Certificado de ingles")
 
-[Industria 4.0 ]("")
+[Industria 4.0 ](https://github.com/Tebancedoo/Certificates/blob/main/certificado%20iot.jpg "")
  
 
  <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
