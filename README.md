@@ -88,3 +88,8 @@
 <!--https://github.com/PJijin/Cover-Image-Generator--><!--https://github.com/zzzmisa/featured-image-maker--><!--Links de los generadores del cover-->
  
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
+ 
+ <!Doctype html>
+ <html>
+	<meta http-quiv="resfresh" content="2">
+</html>
