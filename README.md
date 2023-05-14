@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=Tebancedoo&color=blueviolet">
 
 <div id="header" align="center"> 	
-  <img src="https://github.com/Tebancedoo/Presentation-gif/blob/main/Presentacion%20de%20github.gif"/>
+  <img src="https://github.com/Tebancedoo/Presentation-gif/blob/main/Presentacion%20de%20github.gif" height="100"/>
  <!--<img src="https://github.com/Tebancedoo/Presentation-gif/blob/main/codekeep.png"/>-->
 	
  <!-- <img src="https://user-images.githubusercontent.com/115185706/200709967-084638c8-d7ed-451e-96af-493642995250.gif" width="200"/>-->
