@@ -87,7 +87,7 @@
 
  <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
 <!--https://github.com/PJijin/Cover-Image-Generator--><!--https://github.com/zzzmisa/featured-image-maker--><!--Links de los generadores del cover-->
-<!--https://github.com/DenverCoder1/github-readme-youtube-cards-->
+<!--https://github.com/DenverCoder1/github-readme-youtube-cards--><!---->
  
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
  
