@@ -22,8 +22,7 @@
     <img width="80" src="https://user-images.githubusercontent.com/115185706/209584111-24ed5aa5-512e-48fa-b557-dc721a3c4da4.png">
   </a>
 	
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Tebancedoo)
-	
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Tebancedoo)	
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-salcedo-perez-413133211/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:estebansalcedo211@gmail.com)
 </div>
