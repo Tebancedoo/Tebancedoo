@@ -92,6 +92,5 @@
 <!--https://github.com/DenverCoder1/github-readme-youtube-cards--><!--Link pra hacr una carta de presentación-->
  
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
