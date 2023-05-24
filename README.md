@@ -79,7 +79,7 @@
   
  <!--https://github.com/Tebancedoo/Awesome-Profile-README-templates/blob/master/multimedia/sanchitvj.md-->
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=Tebancedoo&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Tebancedoo-bg=true&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
  
  ## My Certifications :arrow_down:
 
