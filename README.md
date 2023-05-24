@@ -79,6 +79,8 @@
   
  <!--https://github.com/Tebancedoo/Awesome-Profile-README-templates/blob/master/multimedia/sanchitvj.md-->
  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Tebancedoo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
  ## My Certifications :arrow_down:
 
 [Tecnico Programación de Software ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg "Certificado de programación de software")
