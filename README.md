@@ -30,7 +30,7 @@
 </div>
 
   <h4>
-    👀 About Me:
+    👀<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> About Me:
   <br>
   <br>
    💻 I'm currently learning python
