@@ -69,7 +69,7 @@
   
   ### 🏦 My Stats: 
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tebancedoo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tebancedoo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
     
