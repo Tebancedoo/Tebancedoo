@@ -54,6 +54,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="html" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="80" height="80"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="80" height="80"/>&nbsp;
+  <code><img title="HTML5" height="80" src="images/html5.svg"></code>
+
   </div>
   </div>
 <p>	
