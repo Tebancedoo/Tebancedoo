@@ -51,17 +51,12 @@
   #### :computer: Programming languages and tools: 
   <div>
   <br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="html" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="80" height="80"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="80" height="80"/>&nbsp; <code><img title="HTML5" height="80" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+<code><img title="HTML5" height="80" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
 <code><img title="CSS" height="80" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
 <code><img title="PHP" height="80" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
-
-
-
-
   </div>
   </div>
+  
 <p>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
