@@ -16,6 +16,7 @@
     I am a programmer from Colombia. I love to learn constantly, and I'm learning python, of which I already have several mini projects.
   </h3>
 </div>
+
 <div id="badgest" align="center">
   <a href="https://codepen.io/Tebancedoo">
     <img width="90" src="https://user-images.githubusercontent.com/115185706/209584192-bc992b6e-b89e-40af-8842-86a60f317ba6.png">
