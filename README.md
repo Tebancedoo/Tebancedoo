@@ -8,9 +8,9 @@
 	
  <!-- <img src="https://user-images.githubusercontent.com/115185706/200709967-084638c8-d7ed-451e-96af-493642995250.gif" width="200"/>-->
 	
-  <h1>
-    👋 Hi, I’m Esteban Salcedo
-  </h1>
+# 👋 Hi, I’m Esteban Salcedo
+ 
+	
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
   <h3> 
     I am a programmer from Colombia. I love to learn constantly, and I'm learning python, of which I already have several mini projects.
