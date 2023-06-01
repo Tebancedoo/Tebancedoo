@@ -39,7 +39,7 @@
 
   #### ⚙ I'm studying Software Analysis and Development
 
-  🔩 I aspire to be a Software Engineer
+  #### 🔩 I aspire to be a Software Engineer
 
   <div align="left"
 	
