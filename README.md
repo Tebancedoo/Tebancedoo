@@ -36,15 +36,11 @@
   #### 💻 I'm currently learning python
   
   #### ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, GIT AND PYTHON.
-  <br>
-  <br>
-  ⚙ I'm studying Software Analysis and Development
-  <br>
-  <br>
+
+  #### ⚙ I'm studying Software Analysis and Development
+
   🔩 I aspire to be a Software Engineer
-  <br>
-  <br>
-  <br>
+
   <div align="left"
 	
   #### :computer: Programming languages and tools: 
