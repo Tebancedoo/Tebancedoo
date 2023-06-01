@@ -30,14 +30,12 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:estebansalcedo211@gmail.com)
 </div>
 
-  <h4>
-   👀 About Me:
-  <br>
-  <br>
-   💻 I'm currently learning python
-  <br>
-  <br>
-  ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, GIT AND PYTHON.
+
+  #### 👀 About Me:
+
+  #### 💻 I'm currently learning python
+  
+  #### ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, GIT AND PYTHON.
   <br>
   <br>
   ⚙ I'm studying Software Analysis and Development
@@ -48,7 +46,6 @@
   <br>
   <br>
   <div align="left"
-       </h4>
 	
   #### :computer: Programming languages and tools: 
        
