@@ -41,6 +41,7 @@
 
   #### 🔩 I aspire to be a Software Engineer
 
+  <br>
   <div align="left"
 	
   #### :computer: Programming languages and tools: 
