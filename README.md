@@ -92,6 +92,7 @@
  
 
 <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
+
 <!--https://github.com/PJijin/Cover-Image-Generator--><!--https://github.com/zzzmisa/featured-image-maker--><!--Links de los generadores del cover-->
 <!--https://github.com/DenverCoder1/github-readme-youtube-cards--><!--Link pra hacr una carta de presentación-->
 
