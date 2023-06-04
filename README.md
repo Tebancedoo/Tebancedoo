@@ -11,6 +11,7 @@
 # 👋 Hi, I’m Esteban Salcedo
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
 ### I am a programmer from Colombia. I love to learn constantly, and I'm learning python, of which I already have several mini projects.
 
 </div>
