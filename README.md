@@ -57,12 +57,12 @@
   </div>
   
 <p>
-<code><img title="PHP" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><img title="MySQL" height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
+<code><img title="PHP" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
 </p>
 
   <br>
