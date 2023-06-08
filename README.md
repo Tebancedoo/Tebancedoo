@@ -22,6 +22,7 @@
 	  
 <img width="90" src="https://user-images.githubusercontent.com/115185706/209584192-bc992b6e-b89e-40af-8842-86a60f317ba6.png">
   </a>
+https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 	
 <a href="https://replit.com/@Tebancedoo1">
     <img width="80" src="https://user-images.githubusercontent.com/115185706/209584111-24ed5aa5-512e-48fa-b557-dc721a3c4da4.png">
