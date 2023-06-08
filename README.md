@@ -18,19 +18,15 @@
 
 <div id="badgest" align="center">
 	
-  <a href="https://codepen.io/Tebancedoo">
-	  
-<img width="90" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-	  
+  <a href="https://codepen.io/Tebancedoo">	  
+<img width="90" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">  
   </a>
-<code><img width="90" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-	
+		
 <a href="https://replit.com/@Tebancedoo1">
-    <img width="80" src="https://user-images.githubusercontent.com/115185706/209584111-24ed5aa5-512e-48fa-b557-dc721a3c4da4.png">
+    <img width="80" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
 </a>
 
-https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
+
 	
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Tebancedoo)	
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-salcedo-perez-413133211/)
