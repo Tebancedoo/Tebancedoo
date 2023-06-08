@@ -20,7 +20,8 @@
 	
   <a href="https://codepen.io/Tebancedoo">
 	  
-<img width="90" src="https://user-images.githubusercontent.com/115185706/209584192-bc992b6e-b89e-40af-8842-86a60f317ba6.png">
+<img width="90" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+	  
   </a>
 <code><img width="90" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
