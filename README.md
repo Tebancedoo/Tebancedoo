@@ -100,3 +100,7 @@
  
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
 
+Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+Shell                    2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
