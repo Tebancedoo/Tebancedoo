@@ -20,7 +20,7 @@
 	
 <a href="https://codepen.io/Tebancedoo">	  
 <img width="90" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">  
-  </a>
+</a>
 		
 <a href="https://replit.com/@Tebancedoo1">
     <img width="80" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
