@@ -18,7 +18,7 @@
 
 <div id="badgest" align="center">
 	
-  <a href="https://codepen.io/Tebancedoo">	  
+<a href="https://codepen.io/Tebancedoo">	  
 <img width="90" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">  
   </a>
 		
