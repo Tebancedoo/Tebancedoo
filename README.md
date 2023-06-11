@@ -100,5 +100,7 @@
 <!--https://github.com/zumrudu-anka/zumrudu-anka--><!--Repositori con imagenes -->
  
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
+ 
+ <img src="https://imgur.com/rilHVxA.png"/>
 
 
