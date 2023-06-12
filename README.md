@@ -84,7 +84,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=Tebancedoo&no-bg=true&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
  
  ## My Certifications :arrow_down:
-<div>
+
 [Tecnico Programación de Software ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg "Certificado de programación de software")
  
 [English dot Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20dot%20works.jpg "Certificado de ingles")
@@ -92,7 +92,7 @@
 [English does Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20does%20works.jpg "Certificado de ingles")
 
 [Industria 4.0 ](https://github.com/Tebancedoo/Certificates/blob/main/certificado%20iot.jpg "Certificado O.I.T")
-</div>
+
 
 <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
 <!--https://github.com/PJijin/Cover-Image-Generator--><!--https://github.com/zzzmisa/featured-image-maker--><!--Links de los generadores del cover-->
