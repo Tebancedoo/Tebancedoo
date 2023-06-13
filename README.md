@@ -43,8 +43,7 @@
   #### ⚙ I'm studying Software Analysis and Development
 
   #### 🔩 I aspire to be a Software Engineer
-
-<img href="https://pixabay.com/es/vectors/pluma-silueta-pegatina-clipart-2781343/" height="20">
+  
   <br>
   <div align="left"
 	
