@@ -104,10 +104,7 @@
  
  <img src="https://imgur.com/rilHVxA.png"/>
 
+![pngtree-beautiful-fluorescent-blue-feather-png-image_4305435](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/e38f42f7-32e4-42c1-81bd-d02fb5893b39)
 
-![hermosa-pluma-azul-abstracto-brillante-vector-ilustracion-sobre-fondo-negro_223337-5941](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/d5fb834d-13c1-41ee-98bc-854a1715c803)
-
-
-![images](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/4baacf53-a88c-4542-b844-7de1788cc4dc)
 
 
