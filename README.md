@@ -103,5 +103,10 @@
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
  
  <img src="https://imgur.com/rilHVxA.png"/>
- <img src="https://pixabay.com/es/vectors/pluma-silueta-pegatina-clipart-2781343/" height="20"/>
+
+
+![hermosa-pluma-azul-abstracto-brillante-vector-ilustracion-sobre-fondo-negro_223337-5941](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/d5fb834d-13c1-41ee-98bc-854a1715c803)
+
+![hermosa-pluma-azul-abstracto-brillante-vector-ilustracion-sobre-fondo-negro_223337-5940](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/582ae50f-6ea6-4b8b-ad73-a9791d907262)
+
 
