@@ -108,5 +108,4 @@
 
 <!--<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/7d3b75b4-32e2-4676-939f-50ecc7f588c5)" height="50">--> <!--pluma azul infinito -->
 
-![a2ab737c33b643348b49aca185444a6b](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/4979767a-9c5e-4b68-b0f6-66fee657a156)
 
