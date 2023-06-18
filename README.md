@@ -26,7 +26,6 @@
  <img width="80" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
 </a>
 
-
 	
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Tebancedoo)	
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-salcedo-perez-413133211/)
