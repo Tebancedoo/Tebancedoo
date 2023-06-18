@@ -41,8 +41,8 @@
   #### ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, GIT AND PYTHON.
 
   #### ⚙ I'm studying Software Analysis and Development
-🪶
-  #### 🔩  I aspire to be a Software Engineer
+
+  #### 🔩 I aspire to be a Software Engineer
   
   <br>
   <div align="left"
