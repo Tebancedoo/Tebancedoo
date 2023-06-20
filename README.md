@@ -107,3 +107,4 @@
 <!--<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/7d3b75b4-32e2-4676-939f-50ecc7f588c5)" height="50">--> <!--pluma azul infinito-->
 🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖🦖...
 
+![png-clipart-s-six-black-feathers-falling-illustration-thumbnail](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/13c022b4-cbe7-4cbf-ad76-4e8d10ce40b4)
