@@ -102,8 +102,6 @@
  
  <img src="https://imgur.com/rilHVxA.png"/>
 
-<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/7d3b75b4-32e2-4676-939f-50ecc7f588c5)" height="50"> <!--pluma azul infinito-->
-
 ![pluma multicolor (1)](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8)
 
 ![pluma azul](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b)
