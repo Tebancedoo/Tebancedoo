@@ -104,7 +104,7 @@
 
 <!--![pluma multicolor (1)](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8)   ![pluma azul](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b)--> <!--Pluma multicolor y azul sin fondo-->
 
-<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8" height="170"> <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b"  height="170" align="right">
+<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8" height="170"> ![pngegg](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/5561f6fc-eef6-4f56-9a1d-7576c2c9025f) <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b"  height="170" align="right">
 
 
 <!--https://www.pngegg.com/es--><!--pagina para sacar imagenes en png sin fondo-->
