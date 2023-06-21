@@ -106,8 +106,8 @@
 
 <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8" height="170"> <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b"  height="170" align="right">
 
-<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/914d1c66-1b95-4b56-bef9-687b75d89909" align="right">
-<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/27dfe6b1-6f53-483f-8e60-28f2f93621c7" align="right">
+<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/914d1c66-1b95-4b56-bef9-687b75d89909" align="center">
+<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/27dfe6b1-6f53-483f-8e60-28f2f93621c7" align="center">
 
 
 <!--https://www.pngegg.com/es--><!--pagina para sacar imagenes en png sin fondo-->
