@@ -104,4 +104,4 @@
 
 <!--![pluma multicolor (1)](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8)   ![pluma azul](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b)--> <!--Pluma multicolor y azul sin fond-->
 
-<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8" height="170">  ![nubes (1)](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/90e17c5d-1476-40a8-b634-3f9c91f4610c) <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b"  height="170" align="right">
+<img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8" height="170"> ![galaxia roja (1)](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/41cbd828-af15-483a-b63b-2a7f12a23ed3) <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b"  height="170" align="right">
