@@ -34,7 +34,7 @@
 
   #### 👀 About Me:
 
-  #### 💻 I'm currently learning python
+  #### 💻 I'm currently learning python.
   
   #### ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, GIT AND PYTHON.
 
