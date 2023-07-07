@@ -83,7 +83,7 @@
  
  ## My Certifications :arrow_down:
 
-[Certificado Tecnico Programación de Software ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg "Certificado de programación de software")
+[Certificado Técnico Programación de Software ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20%20tecnico%20software.jpg "Certificado de programación de software")
  
 [English dot Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20dot%20works.jpg "Certificado de ingles")
 
