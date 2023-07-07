@@ -89,7 +89,7 @@
 
 [Certificado English does Work ](https://github.com/Tebancedoo/Certificates/blob/main/Certificado%20ingles%20does%20works.jpg "Certificado de ingles")
 
-[Industria 4.0 ](https://github.com/Tebancedoo/Certificates/blob/main/certificado%20iot.jpg "Certificado O.I.T")
+[Certificado Industria 4.0 ](https://github.com/Tebancedoo/Certificates/blob/main/certificado%20iot.jpg "Certificado O.I.T")
 
 <hr>
 
