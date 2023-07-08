@@ -91,7 +91,7 @@
 
 [Certificado Industria 4.0 ](https://github.com/Tebancedoo/Certificates/blob/main/certificado%20iot.jpg "Certificado O.I.T")
 
-[Certificado Excel](https://github.com/Tebancedoo/Certificates/blob/main/certificado%20iot.jpg "Certificado O.I.T")
+[Certificado Excel](https://github.com/Tebancedoo/My-certificates/blob/main/Certificado%20Excel%20basico.jpg")
 
 <hr>
 
