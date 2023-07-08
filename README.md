@@ -91,6 +91,8 @@
 
 [Certificado Industria 4.0 ](https://github.com/Tebancedoo/Certificates/blob/main/certificado%20iot.jpg "Certificado O.I.T")
 
+
+
 <hr>
 
 <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
