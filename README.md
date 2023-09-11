@@ -63,6 +63,7 @@
 <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><img title="MySQL" height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
 <code><img title="PHP" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
 
   <br>
