@@ -96,6 +96,10 @@
 
 [Certificado Excel](https://github.com/Tebancedoo/My-certificates/blob/main/Certificado%20Excel%20basico.jpg "Certificado Excel Basico ")
 
+[Certificado Java](https://github.com/Tebancedoo/My-certificates/blob/main/Variables%20y%20Estructuras%20en%20Java.pdf "Certificado Variables y Estructuras en Java ")
+
+[Certificado Python](https://github.com/Tebancedoo/My-certificates/blob/main/Variables%20y%20Estructuras%20de%20control%20Python.pdf "Certificado Variables y Estructuras de control Python ")
+
 <hr>
 
 <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
