@@ -38,7 +38,7 @@
 
   #### 💻 I'm currently learning python.
   
-  #### ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, GIT AND PYTHON.
+  #### ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, NODE, GIT, PYTHON AND ANGULAR.
 
   #### ⚙ I'm studying Software Analysis and Development.
 
