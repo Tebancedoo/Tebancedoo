@@ -38,7 +38,7 @@
 
   #### 💻 I'm currently learning python.
   
-  #### ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, NODE, GIT, PYTHON AND ANGULAR.
+  #### ⌨ I have knowledge in HTML, CSS, JAVASCRIPT, PHP, NODE, GIT, PYTHON, JAVA AND ANGULAR.
 
   #### ⚙ I'm studying Software Analysis and Development.
 
@@ -67,8 +67,9 @@
 <code><img title="PHP" height="45" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.png"></code>
-
+<code><img width="10%" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
 </p>
+
 
   <br>
   
