@@ -16,6 +16,7 @@
 
 ### I´m a programmer from Colombia. I love to learn constantly, and I'm learning python, of which I already have several mini projects.
 
+<!--Aprendiz en formacion del Tecnologo en Analisis y Desarrollo de Software, con curso complementario de ingles, de la industria 4.0 IOT, Python, Java, Excel y Php, cuento con conocimientos en react native, Angular, Node, Sql, NoSql y Javascript, con gran motivacion por adquirir mayores conocimientos, ademas de buenas relaciones interpersonales, capacidad para trabajar en equipo y manejo de la comunicacion asertiva. -->
 </div>
 
 <div id="badgest" align="center">
