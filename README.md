@@ -105,7 +105,7 @@
 
 [Certificado Python](https://github.com/Tebancedoo/My-certificates/blob/main/Variables%20y%20Estructuras%20de%20control%20Python.pdf "Certificado Variables y Estructuras de control Python ")
 
-[Certificado Desarrollo PHP](https://github.com/Tebancedoo/My-certificates/blob/main/Certificado%20Desarrollo%20Web%20con%20PHP.pdf")
+[Certificado Desarrollo PHP](https://github.com/Tebancedoo/My-certificates/blob/main/Certificado%20Desarrollo%20Web%20con%20PHP.pdf "Certificado Desarrollo web con PHP")
 <hr>
 
 <!--https://github.com/github/codespaces-jupyter--><!--link para aprender jupyter notebook-->
