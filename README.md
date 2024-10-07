@@ -117,17 +117,17 @@
 <!--https://github.com/zumrudu-anka/zumrudu-anka--><!--Repositorio con imagenes -->
  
  <img src="https://github.com/Tebancedoo/profile-readme-generator/blob/main/public/assets/snake.svg" height="200">
- 
+ <!-- 
  <img src="https://imgur.com/rilHVxA.png"/>
-
+-->
 <!--![pluma multicolor (1)](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8)   ![pluma azul](https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b)--> <!--Pluma multicolor y azul sin fondo-->
-
+<!-- 
 <div align="center">
 <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/a103231f-fe3e-4115-9a00-2b4cf06b2de8" height="170" align="left">
 <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/914d1c66-1b95-4b56-bef9-687b75d89909" height="330">
 <img src="https://github.com/Tebancedoo/Tebancedoo/assets/115185706/81de004b-9eab-4eaf-9d30-e6f86b5cad0b" height="170" align="right">
 </div>
-
+-->
 <!--https://www.pngegg.com/es--><!--pagina para sacar imagenes en png sin fondo-->
 <!--Skyline--><!--pagina para hacer una visión 3D de las contribuciones de 1 o varios años anteriores-->
 
