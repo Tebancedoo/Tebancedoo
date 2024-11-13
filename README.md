@@ -80,6 +80,7 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tebancedoo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tebancedoo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Tebancedoo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
     
   ![Tebancedoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tebancedoo&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff)
   
