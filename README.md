@@ -56,7 +56,7 @@
 <code><img title="GitHub" height="70" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/30_github.c0a4dde53e.png"></code>
 <code><img title="HTML5" height="80" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
 <code><img title="CSS" height="80" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-<code><img title="JAVA" height="80" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+<!-- <code><img title="JAVA" height="80" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code> -->
   </div>
   </div>
   
